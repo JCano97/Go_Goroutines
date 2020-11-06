@@ -39,9 +39,9 @@ func main() {
 		mostrar = 0
 		fmt.Println("MENU PROCESOS")
 		fmt.Println("1.- Crear")
-		fmt.Println("2.- MOSTRAR")
-		fmt.Println("3.- ELIMINAR")
-		fmt.Println("4.- SALIR")
+		fmt.Println("2.- Mostrar")
+		fmt.Println("3.- Eliminar")
+		fmt.Println("4.- Salir")
 		fmt.Print("Ingresa el numero de la opcion: ")
 		fmt.Scanf("%d\r", &opc)
 
